@@ -16,4 +16,7 @@ import java.util.Scanner;
 +      System.out.println("Sum of the integers = " + z);
 +   }
 +}
-
+addmore data
+here
+so
+i wll add more
